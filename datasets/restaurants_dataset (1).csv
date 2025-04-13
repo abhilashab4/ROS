@@ -1,0 +1,176 @@
+RestaurantID,RestaurantName,Type,Size,Cuisine,Location,Country,TaxApplicable,Status
+2,Smith-Arnold,Café,90,Mexican,"4476 Lee Mission, Lake Robert, TN 74689",Ireland,GST,Active
+4,"Brown, Taylor and Hurst",Café,79,Thai,"41274 Rodriguez Valleys Suite 749, Hicksview, LA 13716",England,VAT,Active
+5,"Vasquez, Cruz and Hill",Café,71,Japanese,"112 White Gateway, Riveraport, CA 82026",England,VAT,Active
+9,Gonzalez-Wood,Café,87,Mexican,"5694 George Ramp Suite 935, Port Terri, VA 85812",Scotland,GST,Active
+15,Nicholson-Anderson,Café,55,Indian,"82694 Brewer Harbors Apt. 802, Susanstad, MT 25406",Scotland,GST,Active
+16,Wilkerson Ltd,Café,92,Thai,"3764 Good Freeway, Williamside, KS 58122",England,VAT,Active
+19,Barnes-Cherry,Café,67,Thai,"920 Davis Radial, Craigstad, PA 25254",Wales,GST,Active
+20,Jones Ltd,Café,78,Chinese,"USS Mays, FPO AA 83203",Scotland,GST,Under Maintenance
+24,Moore Group,Café,53,French,"70442 Steven Manors, Changport, WY 08421",Wales,GST,Active
+26,Jackson Ltd,Café,59,Mexican,"385 David Street Suite 730, Warrenstad, RI 27830",Wales,VAT,Active
+27,"Moreno, Kelly and Flores",Café,97,Japanese,"0080 Coleman Squares Suite 829, New Isaiah, VA 78215",Scotland,GST,Active
+31,Bryan-Haney,Café,58,Japanese,"6036 Mary Point, Stephensbury, MO 39650",Ireland,VAT,Active
+33,Johnston-Chang,Café,75,Chinese,"35397 Patricia Lodge, South Samanthashire, NC 20523",England,GST,Inactive
+35,Liu-Sloan,Café,76,Japanese,"332 Stuart Road, Nathanielhaven, MT 62680",England,VAT,Active
+42,Ewing LLC,Café,69,Mexican,"13526 Jones Island Apt. 231, East Sharonberg, OR 31643",Scotland,GST,Inactive
+44,Arnold-Thompson,Café,69,Italian,"7041 Pacheco Place, East Juan, VA 41385",Ireland,GST,Active
+48,"Kirby, Jackson and Simon",Café,84,Thai,"727 Johnson Villages, Port Aaronchester, AL 89329",Ireland,GST,Active
+49,Blackburn LLC,Café,80,Thai,"64885 Sean Hills, Pruittfurt, GA 57543",Scotland,GST,Active
+50,Sparks-Sparks,Café,92,Thai,"6905 Sanchez Place Apt. 965, South Jenniferberg, NE 93000",Wales,VAT,Inactive
+51,Pennington Group,Café,60,Mexican,"4738 Richard Brook Suite 045, Cookberg, DC 97746",Wales,GST,Active
+71,Collier Group,Café,65,Italian,"73553 Curtis Pines Suite 910, Hernandezland, KY 45493",England,GST,Active
+73,"Henderson, Walsh and Watkins",Café,77,Thai,"9284 Renee Meadows, Elizabethchester, KY 36980",England,GST,Active
+76,"Edwards, Barrett and May",Café,97,Mexican,"32700 Keller Hill, Kaitlynfort, CA 43189",Ireland,VAT,Active
+81,Martin Ltd,Café,79,Japanese,"08575 Brock Valleys, Barrettfurt, SD 03348",Ireland,GST,Active
+89,Suarez-Yates,Café,80,Mexican,"88840 Natalie Springs Suite 472, Lake Aaron, VI 16623",Wales,GST,Inactive
+91,Smith-Gomez,Café,66,Mexican,"69797 Bowman Run Apt. 522, Lake Rodneyfort, FL 17739",Scotland,VAT,Under Maintenance
+94,Smith PLC,Café,52,Italian,"152 Terry Unions, East Jacqueline, ID 12789",England,VAT,Active
+100,Tran-Herman,Café,92,Italian,"510 John Parks Suite 482, Stewartside, DE 55128",Ireland,GST,Active
+103,Hall-Hopkins,Café,60,Mexican,"08194 Kimberly Burgs Apt. 641, New Shannonchester, SC 36034",Ireland,VAT,Active
+106,Boone Group,Café,83,Italian,"8137 Chang Trail, Lake Amy, DC 01700",Ireland,VAT,Active
+108,"Thompson, Ryan and Young",Café,66,Mexican,"618 Nelson Pass Apt. 952, Lake Nancymouth, TX 20343",Ireland,GST,Inactive
+115,Harris-Howard,Café,59,Italian,"17499 Lamb Well, Port Thomasside, KS 77106",Wales,VAT,Active
+121,"Ingram, Ramos and Mcdaniel",Café,62,Indian,"96022 Clark Parkway, Whitneyberg, CO 26691",England,GST,Active
+122,Lin-Gross,Café,83,Japanese,"58578 Thomas Mills, South Adam, AK 23760",England,GST,Active
+123,"Mason, Leon and Wright",Café,88,Chinese,"2467 Hebert Crescent Suite 334, New Joanna, LA 65268",Scotland,GST,Active
+127,Smith PLC,Café,57,Chinese,"0658 Olivia Forks Suite 967, East Brenda, MA 76699",Ireland,VAT,Active
+130,"Herring, Hernandez and Hall",Café,66,Indian,"004 Stafford Trace, Cohenton, MO 74719",Ireland,VAT,Inactive
+133,Morris-Green,Café,69,Italian,"38690 Cynthia Junctions Apt. 079, Gabrielchester, UT 18212",England,GST,Active
+137,Ayers-Bruce,Café,58,French,"523 Valdez Flat, Port April, NC 77065",Ireland,GST,Active
+140,Delacruz-Mendoza,Café,58,Japanese,"04037 Bruce Plain Apt. 179, Taylorshire, NC 76456",Wales,GST,Active
+144,Francis and Sons,Café,78,Italian,"6664 Benjamin Turnpike, Weavermouth, CO 80187",Ireland,VAT,Active
+156,Parks-Mata,Café,76,Chinese,"14328 Johnson Street Suite 090, South Christopherside, IA 90730",Ireland,GST,Active
+167,Marquez Group,Café,60,Mexican,"07229 Nathan Freeway Suite 584, Port Elizabethburgh, TN 44193",Scotland,VAT,Active
+169,Davis-Campbell,Café,68,Thai,"0234 Leslie Bypass Apt. 093, West Jeremiahton, NH 66787",Ireland,GST,Active
+3,Hoover-Mcknight,Fine Dining,68,Mexican,"USNV Powell, FPO AA 72086",Scotland,GST,Active
+10,"Wade, Rogers and Williams",Fine Dining,65,Thai,"097 John Bypass, Cardenasfort, CT 99067",Scotland,VAT,Active
+11,Potter and Sons,Fine Dining,70,Mexican,"87677 Barton Hills Apt. 141, Port Melissachester, AL 70697",Ireland,VAT,Active
+17,"Ross, Carter and Johnson",Fine Dining,73,French,"553 Lane Knolls, Rodriguezburgh, NC 82555",Wales,VAT,Active
+21,"Jones, Moreno and Wallace",Fine Dining,80,Chinese,"5488 Mary Wells, East Amandatown, LA 20443",Wales,VAT,Inactive
+23,"Ramsey, Rivera and Garza",Fine Dining,41,Mexican,"203 Shawn Valley Suite 126, Port Amy, OR 72277",England,GST,Active
+25,Wilson-Armstrong,Fine Dining,45,Italian,"149 Arthur Extension, Novakchester, RI 55049",Wales,VAT,Active
+28,"Chan, Owens and Garza",Fine Dining,43,Indian,"446 Weaver Expressway Apt. 657, New Destinyview, DC 27897",Ireland,GST,Active
+32,"Reid, Kelly and Johnson",Fine Dining,31,Italian,"773 Smith Freeway, North Terrance, SD 20762",England,GST,Inactive
+37,"Blankenship, Cole and Sanders",Fine Dining,39,Indian,"08310 Baxter Heights Suite 037, Michaelview, FL 72389",Scotland,GST,Inactive
+41,Lawson and Sons,Fine Dining,35,Chinese,"83561 Kelly Lakes Suite 501, Sharonmouth, IL 19374",Scotland,GST,Active
+47,"Macdonald, Hernandez and Guerra",Fine Dining,48,Indian,"8305 Luis Station Apt. 075, East Anthony, GA 74841",Ireland,GST,Under Maintenance
+53,Reeves LLC,Fine Dining,68,Indian,"Unit 8931 Box 3143, DPO AE 29478",Wales,VAT,Active
+54,"Edwards, Green and Burns",Fine Dining,61,French,"336 Sharp Walk, Port Tammyside, PR 67409",Ireland,VAT,Active
+59,"Bishop, Mcfarland and Green",Fine Dining,35,Italian,"066 Patrick Harbor, North Carrieport, DC 87492",Scotland,VAT,Active
+62,"Turner, Moss and Patel",Fine Dining,43,Italian,"4197 Alice Tunnel Apt. 397, West Laurie, WI 98986",Scotland,GST,Active
+64,Miles and Sons,Fine Dining,66,Italian,"6766 Steven View Suite 662, Christopherville, PW 68658",England,GST,Active
+72,Adams-Chan,Fine Dining,42,Mexican,"2451 Laurie Dam Suite 580, North Shelby, MD 44910",Wales,VAT,Active
+75,"Holloway, Khan and Marshall",Fine Dining,74,Indian,"73087 Shea Expressway, South Matthewside, WA 58025",Wales,GST,Active
+78,Reyes-Ramirez,Fine Dining,47,French,"9226 Mcdonald Ford Apt. 935, New John, PA 17690",Ireland,VAT,Active
+82,Washington-Ramirez,Fine Dining,46,Italian,"708 Nguyen Street Suite 574, Carrmouth, ME 05967",Scotland,GST,Inactive
+84,"Miller, Jenkins and Payne",Fine Dining,74,Chinese,"USNS Wilcox, FPO AA 84943",Wales,GST,Active
+85,Lutz Group,Fine Dining,68,Thai,"46841 Adam Camp Apt. 106, New Sarah, GA 05947",England,GST,Under Maintenance
+86,"Knight, Thompson and Jones",Fine Dining,74,Indian,"97730 Harris Ports, New Edward, NJ 29810",Ireland,GST,Active
+97,Robinson-Johnson,Fine Dining,31,Italian,"836 Walker Extensions Suite 889, Brianbury, WI 85088",Wales,VAT,Active
+105,Weaver-Mccall,Fine Dining,47,Indian,"5480 Ryan Grove, West William, CT 92381",England,VAT,Active
+111,Smith-Hayden,Fine Dining,41,Italian,"137 Morris Plain Suite 181, Hartshire, MS 70525",Wales,GST,Active
+112,"Lee, Howard and Walker",Fine Dining,63,Indian,"857 Caleb Falls, Aliciafort, WI 19097",England,GST,Active
+118,Wong-Gill,Fine Dining,41,Italian,"35215 Peter Fort Suite 097, North Spencershire, MN 80518",Wales,VAT,Active
+119,"Keller, Ramirez and Welch",Fine Dining,59,Japanese,"69383 Reed Falls Suite 983, South Edwardbury, CT 89611",England,VAT,Active
+120,Boyd and Sons,Fine Dining,73,French,"274 Tammie Field, East Richard, GU 99681",Scotland,GST,Active
+124,Rodriguez Inc,Fine Dining,51,Mexican,"43655 Jason Trail, Townsendfurt, UT 28602",Ireland,VAT,Active
+131,"Turner, Frazier and Rodriguez",Fine Dining,65,Indian,"21006 Ramirez Views Apt. 634, North Jason, MT 47648",Ireland,GST,Active
+138,Ponce-Bennett,Fine Dining,64,Japanese,"260 Stark Lakes, South Karenland, PR 18463",Scotland,VAT,Active
+142,Williams-Li,Fine Dining,73,Mexican,"Unit 2907 Box 9972, DPO AA 06751",Scotland,GST,Active
+143,Nguyen Group,Fine Dining,53,Indian,"82622 Erickson Club Suite 308, Evanstown, AS 35200",England,GST,Active
+146,Fitzgerald-Deleon,Fine Dining,63,Japanese,"6883 Brown Trace, Changtown, NE 97237",Scotland,GST,Active
+148,Mcconnell Inc,Fine Dining,49,Italian,"498 Meyers Canyon, Port Amy, NE 57328",England,GST,Active
+149,Davis Group,Fine Dining,36,Italian,"83807 Benjamin Lodge Suite 967, New Corystad, IA 66107",Ireland,VAT,Active
+154,"Wells, Ortiz and Hunt",Fine Dining,55,Japanese,"411 Mcgee Loop Apt. 906, Davidport, ND 24167",Wales,VAT,Active
+158,"Cox, Miranda and Douglas",Fine Dining,54,Japanese,"3319 Diana Point Apt. 603, South Julie, VT 18360",Wales,VAT,Active
+159,Kelley-Johnson,Fine Dining,36,Chinese,"146 Nicole Summit Apt. 719, Bethanymouth, TN 74574",Scotland,GST,Inactive
+163,"Hernandez, Roberts and Simpson",Fine Dining,71,French,"8153 Craig Forks, Reyesmouth, MA 74587",Scotland,VAT,Active
+166,"Cummings, Burns and Smith",Fine Dining,72,Mexican,"1934 Kathleen Field Apt. 017, Hansonton, NY 25981",Scotland,GST,Active
+172,Scott-Velez,Fine Dining,67,French,"128 Donald Tunnel Suite 744, Lopezland, WV 28423",Ireland,GST,Inactive
+174,"Keith, Dunn and Quinn",Fine Dining,77,Indian,"1007 Savage Meadows, Johnsonside, NC 98532",Wales,GST,Under Maintenance
+6,Molina Inc,Fast Food,118,Thai,"7773 Wheeler Crest Apt. 825, Lake Tanyachester, RI 95034",England,GST,Active
+7,Morris-Griffin,Fast Food,82,Japanese,"7048 Graham Islands Apt. 369, South Maryview, GA 07931",England,GST,Active
+8,"Miller, Sullivan and Greene",Fast Food,84,French,"979 Jacob Grove Apt. 922, East Laura, ME 20518",Scotland,GST,Active
+13,"Warner, Reed and Nunez",Fast Food,118,Indian,"233 Williams Field, East Racheltown, PW 31337",Wales,GST,Active
+18,Doyle-Ramirez,Fast Food,122,French,"08421 Fred Road, South Samuel, MT 98210",England,VAT,Active
+22,Roberts-Murphy,Fast Food,95,Italian,"559 Alexis Islands, Nathanielborough, CT 84425",England,VAT,Active
+30,Berry-Kelly,Fast Food,81,Mexican,"31744 Amanda Junctions, Lisaville, KY 69745",Ireland,GST,Active
+34,Cobb Inc,Fast Food,87,Indian,"89718 Horne Freeway, Chelseamouth, NH 22048",England,VAT,Active
+38,"Hamilton, Shah and Martinez",Fast Food,114,Japanese,"48617 Michael Mews, Jeffside, AL 81681",Wales,VAT,Active
+40,Schmitt-Gonzalez,Fast Food,119,Chinese,"2824 Joseph Port Apt. 500, West Denise, NY 16339",Scotland,GST,Active
+52,Jones Ltd,Fast Food,124,Thai,"36241 Reeves Inlet Apt. 651, Stephaniestad, WI 99621",Scotland,VAT,Inactive
+56,"Hebert, Hayes and Harrington",Fast Food,98,Italian,"9252 Brandon Groves Suite 485, Karenmouth, NH 92053",Wales,GST,Active
+60,"Tucker, Kelley and Wallace",Fast Food,109,Chinese,"7062 Katherine Vista, Lake Tom, VA 09099",Scotland,VAT,Active
+65,Rodriguez Inc,Fast Food,115,Indian,"Unit 5084 Box 7226, DPO AE 47113",Ireland,GST,Active
+67,Hendrix Ltd,Fast Food,95,Mexican,"445 Tammie Prairie, Staffordport, MI 82741",Wales,VAT,Active
+68,Paul-Jackson,Fast Food,83,French,"58137 Boyd Spurs, East Diane, VA 30132",Ireland,GST,Active
+83,Day Ltd,Fast Food,102,French,"1154 William Station Suite 183, Carolynmouth, MD 21636",Wales,GST,Active
+87,Brooks LLC,Fast Food,96,Chinese,"6450 Megan Fields, Vaughnton, FM 19745",Scotland,VAT,Active
+88,Robinson Group,Fast Food,101,Italian,"1974 Sutton Spring, Michelleville, GA 44120",England,GST,Active
+90,Nichols and Sons,Fast Food,80,Thai,"8105 Tiffany Skyway, Taylorshire, VT 94141",England,GST,Inactive
+93,Brown Group,Fast Food,102,French,"620 Diaz Dam, Port Johntown, WY 08735",Ireland,VAT,Active
+95,Daniel and Sons,Fast Food,109,French,"1052 Brittany Groves Suite 696, Port Aliciaside, MA 64711",Scotland,GST,Under Maintenance
+98,"Wagner, Kim and Barajas",Fast Food,90,Thai,"9485 Nicholas Village, South Jeromemouth, NM 34501",Scotland,VAT,Inactive
+99,Miller Group,Fast Food,85,Thai,"96623 Kimberly Mount Apt. 251, West Stephanieside, MS 79829",Scotland,VAT,Under Maintenance
+101,Howell PLC,Fast Food,110,Thai,"PSC 1828, Box 6394, APO AA 53877",Ireland,GST,Active
+107,"Perez, Martinez and Knight",Fast Food,105,Italian,"008 Matthew Plains, Teresaborough, ND 66204",Ireland,GST,Active
+110,"Mccormick, Lee and Terry",Fast Food,124,Japanese,"053 Joseph Cape, Michelleberg, PW 90715",Scotland,GST,Active
+116,"Collins, Horton and Patterson",Fast Food,118,Mexican,"908 Gross Estates Apt. 378, Amyshire, MN 14924",Scotland,VAT,Active
+126,Jackson-Kramer,Fast Food,110,Mexican,"149 Pena Highway Apt. 054, New Johnburgh, TN 97279",England,VAT,Active
+129,Johnson-Jordan,Fast Food,84,Chinese,"596 Matthew Loaf, Maryborough, DC 75064",Ireland,VAT,Under Maintenance
+141,Vargas-Watts,Fast Food,80,Chinese,"98053 Nicolas Haven Apt. 028, North Ryan, SD 76786",England,VAT,Active
+150,Anderson-Long,Fast Food,100,Japanese,"3858 Schultz Glen, Middletonview, MA 28976",Wales,VAT,Active
+161,White-King,Fast Food,100,Mexican,"6052 Jacob Roads, South Christinaside, MN 29624",Scotland,GST,Active
+164,Browning-Gibson,Fast Food,107,Thai,"3794 Anthony Oval Apt. 058, Montoyamouth, DE 81897",Wales,VAT,Active
+170,Warner-Holmes,Fast Food,96,French,"442 Melissa Isle Suite 923, New Abigailbury, TX 68595",Wales,GST,Active
+173,"Rose, Carpenter and Mcdowell",Fast Food,120,Thai,"519 Andrew Knolls Apt. 124, New Brandon, SC 67806",Wales,VAT,Active
+175,"Solomon, Marshall and Meyer",Fast Food,113,French,"698 Wesley Alley, New Michael, WI 98125",Wales,GST,Active
+1,Schneider-Powell,Casual Dining,119,Japanese,"52469 Matthew Center Apt. 276, Moonhaven, UT 47331",Wales,GST,Active
+12,Smith-Ramirez,Casual Dining,131,Japanese,"11195 Randall Cove Apt. 480, Sullivanborough, DC 65540",Scotland,GST,Active
+14,"Montgomery, Hutchinson and Johnson",Casual Dining,153,Mexican,"51256 Carol Canyon, East Hannah, IL 07407",Scotland,GST,Active
+29,"Bauer, Long and Ryan",Casual Dining,160,Thai,"552 Perez Row Suite 732, North Tammy, DE 57976",Ireland,VAT,Active
+36,Bailey-Taylor,Casual Dining,215,Mexican,"84390 Elizabeth Mews, Lake Kendraborough, NV 73831",Ireland,VAT,Active
+39,Wong-Jensen,Casual Dining,161,Mexican,"0235 Silva Greens, Lake Jennifer, MS 43452",Wales,GST,Active
+43,Green-Franco,Casual Dining,138,Chinese,"69349 Elizabeth Loaf Apt. 418, Shannonberg, NY 66927",England,GST,Active
+45,"Garcia, Lopez and Hernandez",Casual Dining,107,Chinese,"44187 Jennings Stravenue Apt. 154, New Carlashire, OK 42181",Ireland,VAT,Active
+46,Taylor-Rodriguez,Casual Dining,220,Japanese,"317 Jennifer Hills, Albertchester, MI 65526",Wales,GST,Active
+55,"Hendricks, Sanchez and Johnson",Casual Dining,235,Indian,"PSC 0044, Box 7396, APO AE 06984",Wales,VAT,Active
+57,"Reynolds, Martinez and Hunter",Casual Dining,100,French,"USCGC Young, FPO AE 85117",Wales,VAT,Inactive
+58,Miller and Sons,Casual Dining,88,Thai,"42408 Decker Route, North Howardberg, MD 54124",Scotland,VAT,Active
+61,"Holmes, Padilla and Davis",Casual Dining,205,Japanese,"Unit 4367 Box 8034, DPO AP 29914",England,VAT,Under Maintenance
+63,"Parker, Johnson and Ibarra",Casual Dining,201,Chinese,"379 Wiley Gardens Apt. 755, Gonzalezburgh, TN 29272",Ireland,VAT,Active
+66,Murphy-Dalton,Casual Dining,123,Chinese,"86434 Bell Island Suite 040, Port James, ND 02588",England,GST,Inactive
+69,Hart-Marshall,Casual Dining,165,Japanese,"82041 Janet Path, North Marcus, MH 84149",Wales,GST,Inactive
+70,Walker LLC,Casual Dining,99,French,"72180 Roberts Parks Suite 002, Hamiltonhaven, WA 11272",Wales,VAT,Inactive
+74,Morgan-Harrison,Casual Dining,89,French,"Unit 1966 Box 0548, DPO AP 44108",Wales,VAT,Active
+77,Payne LLC,Casual Dining,214,Japanese,"508 Sanchez Rapid Suite 532, West Jeffreyborough, IL 77191",Ireland,GST,Active
+79,"Prince, Ford and Rodriguez",Casual Dining,184,Italian,"2847 Howell Port, South Anthonychester, IN 61511",Wales,GST,Active
+80,Conley-Baker,Casual Dining,98,Indian,"56288 Craig Underpass Apt. 562, West Erinburgh, WI 98458",Ireland,VAT,Inactive
+92,"Lawson, Hall and Andrade",Casual Dining,212,Japanese,"4972 Mitchell Rue Apt. 970, Port Sandra, WI 63190",England,GST,Active
+96,"Smith, Scott and Bowman",Casual Dining,65,Japanese,"7776 Shane Stream, East Geraldland, GU 90681",England,GST,Active
+102,Khan PLC,Casual Dining,180,Japanese,"1980 Katrina Mews, Port Adamhaven, MA 19319",Scotland,VAT,Active
+104,Rose Group,Casual Dining,127,Japanese,"78101 Martin Squares, Sandramouth, KS 93186",Scotland,GST,Inactive
+109,Conley-Powell,Casual Dining,103,French,"43654 John Vista Apt. 887, Matthewberg, CT 72492",Ireland,GST,Active
+113,"Warren, Gray and Hall",Casual Dining,99,Italian,"28328 Evans Lodge, Port Markport, DC 26706",England,VAT,Active
+114,Zuniga PLC,Casual Dining,172,French,"9825 Roger Squares Suite 878, Williammouth, AZ 37062",Wales,GST,Active
+117,Kennedy Inc,Casual Dining,172,French,"9459 Perkins Dam Apt. 763, West Connie, DC 84146",Wales,GST,Active
+125,Smith LLC,Casual Dining,124,Indian,"Unit 3631 Box 2984, DPO AA 25894",Scotland,GST,Active
+128,Adams-Kane,Casual Dining,121,French,"55372 Ross Lane, Davischester, VA 85978",Scotland,GST,Active
+132,"Vargas, Christensen and Sparks",Casual Dining,149,French,"44084 Joshua Run Apt. 366, East Brenda, WY 50928",Scotland,VAT,Active
+134,Smith LLC,Casual Dining,65,Thai,"93246 Deleon Parks, Beckerview, PW 63265",Scotland,VAT,Inactive
+135,King Group,Casual Dining,217,Chinese,"33586 Madison Lodge, Elizabethville, AR 17120",England,VAT,Active
+136,Chan-Johnson,Casual Dining,186,Italian,"USCGC White, FPO AA 81010",Ireland,VAT,Active
+139,Rivera-Powell,Casual Dining,151,French,"688 Victor Rue, West Laurenshire, SD 59054",England,VAT,Under Maintenance
+145,Nelson-Hall,Casual Dining,165,Thai,"9317 Martinez Grove Apt. 080, Cobbchester, PW 76184",Wales,GST,Active
+147,"Wagner, Young and Butler",Casual Dining,134,French,"23130 Kylie Estates, New Mary, GU 19655",Wales,GST,Active
+151,Phillips PLC,Casual Dining,106,French,"83598 Maria Forge Apt. 866, West Scott, PA 28248",England,GST,Active
+152,Moore PLC,Casual Dining,209,Chinese,"455 Davis Branch, Port Lesliebury, IN 58915",Ireland,GST,Active
+153,Koch Inc,Casual Dining,187,Japanese,"484 Keith Ports Suite 438, Burtonport, TN 87762",Ireland,GST,Inactive
+155,Cole-Norman,Casual Dining,198,Japanese,"3714 Corey Course, New Veronica, MI 69970",Scotland,GST,Inactive
+157,Williams-Larson,Casual Dining,86,Japanese,"016 Turner Manor Apt. 429, North Michelle, NE 51059",England,VAT,Active
+160,Turner-Green,Casual Dining,225,Chinese,"29751 Brad Highway Apt. 532, Lindaport, IA 27155",Wales,GST,Under Maintenance
+162,Mitchell-Burns,Casual Dining,143,Japanese,"9608 Greg Stravenue, Port Joseph, VI 38806",England,GST,Active
+165,Roberts-Calhoun,Casual Dining,206,Chinese,"916 Glen Ferry, Adamsview, RI 19923",Ireland,GST,Active
+168,Smith Group,Casual Dining,183,Mexican,"179 James Knolls, East Derekmouth, ND 52415",Wales,VAT,Active
+171,Peters-Farmer,Casual Dining,222,Mexican,"573 Antonio Rue Apt. 856, East Jordanton, MS 91583",Wales,VAT,Inactive
